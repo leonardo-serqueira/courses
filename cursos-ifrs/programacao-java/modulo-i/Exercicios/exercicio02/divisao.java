@@ -1,0 +1,19 @@
+public class divisao{
+    public static void main(String[] args){
+        
+        System.out.println("\n------------------- PROGRAMA DE DIVISAO -------------------\n");
+
+        System.out.print("Informe o primeiro numero: ");
+        double num1 = Double.parseDouble(System.console().readLine());
+
+        System.out.print("Informe o segundo numero:");
+        double num2 = Double.parseDouble(System.console().readLine());
+
+        double divisao = num1 / num2;
+        
+        System.out.println("\n --------------------RESULTADO:--------------------\n");
+        System.out.printf("%.2f / %.2f = %.2f\n", num1, num2, divisao);
+
+
+    }
+}
