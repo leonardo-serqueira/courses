@@ -1,3 +1,10 @@
+/*
+    3. Faça um programa que receba três notas de um estudante, calcule e
+    mostre a média aritmética entre elas (este exercício é similar ao exemplo
+    mostrado a neste capítulo, mas leva em consideração três notas e não
+    quatro).
+*/
+
 public class media3{
     
     public static void main(String[]args){
