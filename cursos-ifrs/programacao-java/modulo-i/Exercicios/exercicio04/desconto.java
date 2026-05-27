@@ -6,7 +6,7 @@
     novo preço R$ 90,00.
 */
 
-public class desconto {
+public class Desconto {
     public static void main(String[] args){
         
         double preco;

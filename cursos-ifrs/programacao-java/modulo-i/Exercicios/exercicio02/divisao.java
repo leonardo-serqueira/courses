@@ -4,7 +4,7 @@
     zero, portanto, não é necessário se preocupar com isso neste exercício.
 */
 
-public class divisao{
+public class Divisao{
     public static void main(String[] args){
         
         System.out.println("\n------------------- PROGRAMA DE DIVISAO -------------------\n");

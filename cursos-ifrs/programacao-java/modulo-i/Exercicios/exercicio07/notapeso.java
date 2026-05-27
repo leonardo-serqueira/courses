@@ -7,7 +7,7 @@
     estudante seria 10 x 1 + 5 x 2+ 3 x 6, que resulta em 10 + 10 + 18 = 38. 
 */
 
-public class notaPeso{
+public class NotaPeso{
     
     public static void main(String[] args){
 

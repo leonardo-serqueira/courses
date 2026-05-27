@@ -3,7 +3,7 @@
      Sabese que: Área = (base x altura) / 2.
      A base e altura devem ser informadas pelo usuário.
 */
-public class trianguloArea {
+public class TrianguloArea {
 
     public static void main(String[] args){
 

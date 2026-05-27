@@ -5,7 +5,7 @@
     quatro).
 */
 
-public class media3{
+public class Media3{
     
     public static void main(String[]args){
 

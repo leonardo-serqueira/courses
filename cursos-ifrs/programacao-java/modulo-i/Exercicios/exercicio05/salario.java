@@ -5,7 +5,7 @@
     e paga imposto de 7% sobre este salário (o que será descontado do salário).
 */
 
-public class salario{
+public class Salario{
     public static void main(String[] args){
         
         double sal, bonus, onus, novosal;

@@ -3,7 +3,7 @@
     subtração do primeiro número pelo segundo.
 */
 
-public class subtracao{
+public class Subtracao{
 
     public static void main(String[] args){
         

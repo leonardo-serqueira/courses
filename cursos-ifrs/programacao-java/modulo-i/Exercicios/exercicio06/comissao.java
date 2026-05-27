@@ -5,7 +5,7 @@
     vendas, calcule e mostre a comissão e seu salário final.
 */
 
-public class comissao {
+public class Comissao {
     public static void main(String[] args){
 
         double sal, venda, comis, total;
