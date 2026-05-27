@@ -7,13 +7,13 @@
     estudante seria 10 x 1 + 5 x 2+ 3 x 6, que resulta em 10 + 10 + 18 = 38. 
 */
 
-public class notapeso{
+public class notaPeso{
     
     public static void main(String[] args){
 
         double nota1, nota2, nota3, peso1, peso2, peso3, media;
 
-        System.out.println("PROGRAMA MEDIA COM PESO");
+        System.out.println("\nPROGRAMA MEDIA COM PESO");
         
         System.out.print("\n insira a primeira nota: ");
         nota1 = Double.parseDouble(System.console().readLine());
