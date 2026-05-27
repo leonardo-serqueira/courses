@@ -5,8 +5,7 @@
 
 public class QuadradoArea {
 
-    public static void main(String[] args){
-        
+    public static void main(String[] args) {
         double lado, area;
 
         System.out.println("\nPROGRAMA AREA DE QUADRADO");

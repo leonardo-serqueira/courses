@@ -6,8 +6,7 @@
 */
 
 public class Comissao {
-    public static void main(String[] args){
-
+    public static void main(String[] args) {
         double sal, venda, comis, total;
 
         System.out.println("\nPROGRAMA CALCULADOR DE COMISSAO");

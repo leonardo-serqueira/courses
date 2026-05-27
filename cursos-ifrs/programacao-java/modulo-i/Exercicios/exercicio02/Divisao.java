@@ -6,14 +6,15 @@
 
 public class Divisao{
     public static void main(String[] args){
+        double num1, num2;
         
         System.out.println("\n------------------- PROGRAMA DE DIVISAO -------------------\n");
 
         System.out.print("Informe o primeiro numero: ");
-        double num1 = Double.parseDouble(System.console().readLine());
+        num1 = Double.parseDouble(System.console().readLine());
 
         System.out.print("Informe o segundo numero:");
-        double num2 = Double.parseDouble(System.console().readLine());
+        num2 = Double.parseDouble(System.console().readLine());
 
         double divisao = num1 / num2;
         

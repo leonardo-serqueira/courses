@@ -7,8 +7,7 @@
 
 public class Media3{
     
-    public static void main(String[]args){
-
+    public static void main(String[]args) {
         double nota1, nota2, nota3, media;
 
         System.out.println("\nPROGRAMA MEDIA DE NOTAS");

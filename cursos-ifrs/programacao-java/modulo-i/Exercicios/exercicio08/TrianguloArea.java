@@ -5,8 +5,7 @@
 */
 public class TrianguloArea {
 
-    public static void main(String[] args){
-
+    public static void main(String[] args) {
         double base, altura, area;
 
         System.out.println("\nPROGRAMA AREA DE TRIANGULO");

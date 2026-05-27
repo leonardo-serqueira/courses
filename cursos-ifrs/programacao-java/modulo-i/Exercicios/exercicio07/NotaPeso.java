@@ -9,8 +9,7 @@
 
 public class NotaPeso{
     
-    public static void main(String[] args){
-
+    public static void main(String[] args) {
         double nota1, nota2, nota3, peso1, peso2, peso3, media;
 
         System.out.println("\nPROGRAMA MEDIA COM PESO");

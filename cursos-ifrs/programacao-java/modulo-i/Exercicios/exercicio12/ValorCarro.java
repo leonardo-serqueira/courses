@@ -11,7 +11,7 @@
 
 public class ValorCarro {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         double preco, lucro, imposto, vlucro, vimposto, total;
         
         System.out.println("\nPROGRAMA VALOR DO CARRO");

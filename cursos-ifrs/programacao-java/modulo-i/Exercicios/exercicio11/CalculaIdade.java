@@ -13,7 +13,6 @@
 public class CalculaIdade {
 
     public static void main(String[] args) {
-        
         int nasc, atual, anos, meses, dias, semanas;
 
         System.out.println("\nPROGRAMA CALCULADORA DE IDADE");

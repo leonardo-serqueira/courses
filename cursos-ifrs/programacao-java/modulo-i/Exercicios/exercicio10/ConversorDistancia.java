@@ -12,7 +12,7 @@
 
 public class ConversorDistancia{
     
-    public static void main(String[] args){
+    public static void main(String[] args) {
         double pe, polegada, jarda, milha;
 
         System.out.println("\nPROGRAMA CONVERSOR DE DISTANCIA");
