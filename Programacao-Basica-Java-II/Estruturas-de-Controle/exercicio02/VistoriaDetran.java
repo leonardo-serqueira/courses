@@ -25,17 +25,17 @@
 */
 
 public class VistoriaDetran {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int placa, placaFim;
 
         System.out.println("\nPROGRAMA VISTORIA");
 
         System.out.print("\nDigite a placa(4 digitos): ");
         placa = Integer.parseInt(System.console().readLine());
-    
+
         placaFim = placa % 10;
 
-        switch(placaFim) {
+        switch (placaFim) {
             case 0:
                 System.out.print("\nVistoria em Janeiro do próximo ano\n");
                 break;
