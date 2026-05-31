@@ -6,7 +6,8 @@
     dia de nome do mês de ano
 */
 
-public class DiaMesAno {
+public class SwitchDiaMesAno {
+    
     public static void main(String[] args) {
         int dia, mes, ano;
 

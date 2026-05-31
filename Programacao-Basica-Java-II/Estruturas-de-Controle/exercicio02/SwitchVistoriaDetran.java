@@ -24,7 +24,8 @@
     Dezembro deste ano
 */
 
-public class VistoriaDetran {
+public class SwitchVistoriaDetran {
+    
     public static void main(String[] args) {
         int placa, placaFim;
 
